@@ -1,0 +1,18 @@
+# Virtual environments
+nvenv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
