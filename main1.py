@@ -1,5 +1,3 @@
-# app.py
-# Run: streamlit run app.py
 
 import io
 import os
